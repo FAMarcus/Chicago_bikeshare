@@ -30,13 +30,8 @@ Projeto avaliado pela Udacity.
 
 Criar uma função de decisão para tentar prever os sobreviventes do desastre de 1912 do Titanic baseado nos atributos dos passageiros, como sexo e idade. Começa com um algoritmo simples e aumenta sua complexidade até conseguir prever os sobreviventes com 80% de acurácia.
 
-## Projetos a concluir
-
-### Classificador de imagens
-
 ## Laboratório 
+Nesta seção são alocados programas em que se aplicam os conceitos de Machine Learning e Ciência de dados.
 
-Nesta seção são alocados programas em que se aplicam os conceitos de Machine Learning e Análise de dados.
-
-### [Gradiente de Descida (Gradient Descent)](https://github.com/FAMarcus/Udacity)
-Este é um Notebook com a aplicação do Gradiente de Descida para um Perceptron. Os dados são classificados em duas categorias e um perceptron é usado para encontrar a melhor reta que divide as duas categorias. Modifiquei o notebook para ficar mais didático, separando as funções de visualização em uma biblioteca externa. 
+### [Machine Learning](https://github.com/FAMarcus/Neural-Network-lab)
+Neste diretório colocarei arquivos que descrevem os meus passos no aprendizado e construção de uma rede neural utilizando a linguagem Python. Os arquivos aqui depositados foram escritos de maneira a destacar as minúcias exigidas por linguagem tão flexivel como a Python. Além disso, fui acrescentando complexidade a cada arquivo com o intuito de deixar o programa cada vez mais completo para programação em Deep Learning.
